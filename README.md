@@ -26,19 +26,7 @@ To run the Dijkstra's Algorithm, open `Algo_Dij.m` in MATLAB and execute it.
 
 ---
 
-## 📂 **Project Structure**
-/Optimization_project_201
-│── Algo_Dij.m            # MATLAB implementation of Dijkstra's algorithm
-│── alg_FF.m              # MATLAB implementation of Ford-Fulkerson algorithm
-│── BL.m                  # Helper functions for various operations
-│── graphique.m           # MATLAB script for graphical visualizations
-│── Ordre.m               # Script for sorting or ordering operations
-│── trouver.m             # Script to find optimal solutions
-│── Projet_MATLAB.pptx    # PowerPoint presentation for the project
-│── Compte_rendu_TP_OPT1.pdf  # Report on the project findings
-│── .DS_Store             # MacOS system file (can be ignored)
-
----
+Optimization_project_201/ │ ├── Algo_Dij.m # MATLAB implementation of Dijkstra's algorithm ├── alg_FF.m # MATLAB implementation of Ford-Fulkerson algorithm ├── BL.m # Helper functions for various operations ├── graphique.m # MATLAB script for graphical visualizations ├── Ordre.m # Script for sorting or ordering operations ├── trouver.m # Script to find optimal solutions ├── Projet_MATLAB.pptx # PowerPoint presentation for the project ├── Compte_rendu_TP_OPT1.pdf # Report on the project findings └── .DS_Store # MacOS system file (can be ignored)
 
 ## 🎯 **How to Use the Algorithms**
 1️⃣ **Dijkstra's Algorithm (Algo_Dij.m)**:  
