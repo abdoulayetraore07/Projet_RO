@@ -1,7 +1,7 @@
-# RO_Project : Operations Research & Network Optimization
+# RO_Project : Operational Researchs & Network Optimization
 
 ## 📌 Description
-This project focuses on **techniques** and **algorithms** in operations research, specifically applied to network problems. The goal is to solve various optimization problems using **MATLAB** and analyze solutions with appropriate algorithms.
+This project focuses on **techniques** and **algorithms** in operational researchs, specifically applied to network problems. The goal is to solve various optimization problems using **MATLAB** and analyze solutions with appropriate algorithms.
 
 ---
 
