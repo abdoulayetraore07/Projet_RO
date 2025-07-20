@@ -1,11 +1,11 @@
-# 🚀 RO_Project : Operations Research & Network Optimization
+# RO_Project : Operations Research & Network Optimization
 
 ## 📌 Description
 This project focuses on **techniques** and **algorithms** in operations research, specifically applied to network problems. The goal is to solve various optimization problems using **MATLAB** and analyze solutions with appropriate algorithms.
 
 ---
 
-## 🚀 **Key Features**
+## **Key Features**
 ✔ **Dijkstra's Algorithm** for shortest path calculation.  
 ✔ **Ford-Fulkerson Algorithm** for maximum flow in networks.  
 ✔ **Graphical Visualization** of network problems and optimization results.  
@@ -13,7 +13,7 @@ This project focuses on **techniques** and **algorithms** in operations research
 
 ---
 
-## 🛠 **How to Run the Project**
+## **How to Run the Project**
 This project is implemented in **MATLAB**. To run the project:
 
 1. Download and install **MATLAB** (if not already installed).
@@ -26,7 +26,7 @@ To run the Dijkstra's Algorithm, open `Algo_Dij.m` in MATLAB and execute it.
 
 ---
 
-## 📂 **Project Structure**
+## **Project Structure**
 
 ```
 /Optimization_project_201
@@ -44,7 +44,7 @@ To run the Dijkstra's Algorithm, open `Algo_Dij.m` in MATLAB and execute it.
 ---
 
 
-## 🎯 **How to Use the Algorithms**
+## **How to Use the Algorithms**
 1️⃣ **Dijkstra's Algorithm (Algo_Dij.m)**:  
    - Used to calculate the shortest path between two points in a weighted graph.
    - The user can input a network of nodes and edges with weights.
@@ -58,17 +58,12 @@ To run the Dijkstra's Algorithm, open `Algo_Dij.m` in MATLAB and execute it.
 
 ---
 
-## 📖 **Project Report and Presentation**
+## **Project Report and Presentation**
 - The **Projet_MATLAB.pptx** contains a PowerPoint presentation summarizing the key points of the project.
 
 ---
 
-## 🧑‍💻 **How to Contribute**
+## **How to Contribute**
 Feel free to fork this repository and make improvements. If you want to contribute or suggest changes, please create a pull request.
-
----
-
-## 📄 **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
