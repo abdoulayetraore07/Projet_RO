@@ -45,15 +45,15 @@ To run the Dijkstra's Algorithm, open `Algo_Dij.m` in MATLAB and execute it.
 
 
 ## **How to Use the Algorithms**
-1️⃣ **Dijkstra's Algorithm (Algo_Dij.m)**:  
+**Dijkstra's Algorithm (Algo_Dij.m)**:  
    - Used to calculate the shortest path between two points in a weighted graph.
    - The user can input a network of nodes and edges with weights.
 
-2️⃣ **Ford-Fulkerson Algorithm (alg_FF.m)**:  
+**Ford-Fulkerson Algorithm (alg_FF.m)**:  
    - Used to find the maximum flow in a flow network.
    - It computes the maximum possible flow from a source node to a sink node in a graph.
 
-3️⃣ **Visualization (graphique.m)**:  
+**Visualization (graphique.m)**:  
    - Graphical representation of the networks and the results of optimization algorithms.
 
 ---
