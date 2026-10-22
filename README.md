@@ -29,7 +29,7 @@ To run the Dijkstra's Algorithm, open `Algo_Dij.m` in MATLAB and execute it.
 ## **Project Structure**
 
 ```
-/Optimization_project_201
+/Projet_RO
 │── Algo_Dij.m            # MATLAB implementation of Dijkstra's algorithm
 │── alg_FF.m              # MATLAB implementation of Ford-Fulkerson algorithm
 │── BL.m                  # Helper functions for various operations
